@@ -1,4 +1,4 @@
-const quizDataCleaned = [
+const quizData = [
     {
         id: 1,
         question: "Điều nào sau đây là một lý do chính để sử dụng kiểm thử tự động?",
